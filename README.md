@@ -4,7 +4,7 @@ I'm a second year student, and in the future I aim to become a professional deve
 🍏 My hobbies: I find joy in creating value in everything I do and strive to continuously grow and develop myself ✰
 
 ## Connect with me:
-[![YouTube Icon](https://www.gstatic.com/images/branding/product/1x/youtube_64dp.png)](https://youtube.com/@TienTran-if2td)
+[![YouTube Icon](https://img.icons8.com/?size=1x&id=37326&format=png)](https://youtube.com/@TienTran-if2td)
 [![Skype Icon](https://img.icons8.com/?size=1x&id=63204&format=png)](https://join.skype.com/invite/xSd1vPCku10P)
 [![LinkedIn Icon](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/a-ti%E1%BA%BFn-17958a264)
 [![Facebook Icon](https://img.icons8.com/?size=1x&id=uLWV5A9vXIPu&format=png)](https://www.facebook.com/con.um.50?mibextid=ZbWKwL)
