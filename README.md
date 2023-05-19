@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
 
+
 # Nice to meet you, I'm TienPM 👋
 I'm a second year student, and in the feture I going to professtional developer!
 
@@ -21,3 +22,5 @@ I'm a second year student, and in the feture I going to professtional developer!
 - MySQL
 - GitHub
 - Figma
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" integrity="sha512-..." crossorigin="anonymous"></script>
