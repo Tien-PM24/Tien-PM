@@ -1,7 +1,7 @@
 # Nice to meet you, I'm TienPM ²ᵏ³
 I'm a second year student, and in the future I aim to become a professional developer!
 
-🍏 My hobbies: I find joy in creating value in everything I do and strive to continuously grow and develop myself ✰
+🍏 My goal: I find joy in creating value in everything I do and strive to continuously grow and develop myself ✰
 
 ## Connect with me:
 [![YouTube Icon](https://img.icons8.com/?size=1x&id=19318&format=png)](https://youtube.com/@TienTran-if2td)
