@@ -17,7 +17,7 @@ I'm a second year student, and in the future I aim to become a professional deve
 [![Android Icon](https://img.icons8.com/?size=1x&id=17836&format=png)](https://en.wikipedia.org/wiki/Android_(operating_system))
 [![MySQL Icon](https://cdn.icon-icons.com/icons2/1381/PNG/64/mysqlworkbench_93532.png)](https://en.wikipedia.org/wiki/MySQL)
 [![Figma Icon](https://img.icons8.com/?size=1x&id=zfHRZ6i1Wg0U&format=png)](https://www.figma.com/)
-[![Laravel Icon](https://t3.ftcdn.net/jpg/05/83/61/64/240_F_583616421_I2gICTJCaqquYwXvNJPWIvcxyJcIqT3J.jpg)](https://laravel.com/)
+[![Laravel Icon](./images/Laravel__1_-removebg-preview%20(2).png)](https://laravel.com/)
 [![C# Icon](https://img.icons8.com/color/64/000000/c-sharp-logo-2--v1.png)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![ReactJS Icon](https://img.icons8.com/color/64/000000/react-native.png)](https://reactjs.org/)
 
